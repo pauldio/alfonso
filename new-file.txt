@@ -1,0 +1,6 @@
+mv can do two jobs.
+
+It can move files or directories
+It can rename files or directories
+To just rename a file or directory type this in Terminal:
+
